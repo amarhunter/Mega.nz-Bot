@@ -35,7 +35,7 @@ Deploy your own Bot ♥️! **Star 🌟 Fork 🍴 and Deploy**
 > Notice ⚠️:
 > Please read install notes in [Mega.nz-Deployer](https://github.com/Itz-fork/Mega-Deployer) on "How to deploy this bot on Heroku"
 
-### With VPS/PC
+### With VPS/P
 
 - Clone the Repo,
 ```
